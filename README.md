@@ -16,6 +16,6 @@ css预编译器: Less
 
 ## 项目效果图
 
-![登录界面](http://pbn1lx9m9.bkt.clouddn.com/effect-img.jpg)
+![登录界面](http://pbn1lx9m9.bkt.clouddn.com/effect-img.jpg-600h)
 
-![部分模块](http://pbn1lx9m9.bkt.clouddn.com/effect-img2.jpg)
+![部分模块](http://pbn1lx9m9.bkt.clouddn.com/effect-img2.jpg-600h)
